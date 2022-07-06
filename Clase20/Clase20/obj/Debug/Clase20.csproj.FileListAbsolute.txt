@@ -1,0 +1,8 @@
+C:\Users\Sbach\Desktop\Taller de Programacion\Clase20\Clase20\bin\Debug\Clase20.exe.config
+C:\Users\Sbach\Desktop\Taller de Programacion\Clase20\Clase20\bin\Debug\Clase20.exe
+C:\Users\Sbach\Desktop\Taller de Programacion\Clase20\Clase20\bin\Debug\Clase20.pdb
+C:\Users\Sbach\Desktop\Taller de Programacion\Clase20\Clase20\obj\Debug\Clase20.csproj.AssemblyReference.cache
+C:\Users\Sbach\Desktop\Taller de Programacion\Clase20\Clase20\obj\Debug\Clase20.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sbach\Desktop\Taller de Programacion\Clase20\Clase20\obj\Debug\Clase20.csproj.CoreCompileInputs.cache
+C:\Users\Sbach\Desktop\Taller de Programacion\Clase20\Clase20\obj\Debug\Clase20.exe
+C:\Users\Sbach\Desktop\Taller de Programacion\Clase20\Clase20\obj\Debug\Clase20.pdb

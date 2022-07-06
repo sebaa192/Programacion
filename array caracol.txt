@@ -1,0 +1,83 @@
+ class Program
+    {
+        static void Main(string[] args)
+        {
+            int[,] matriz = new int[8, 7];    //5
+            int inicio = 0;
+
+            //int size = matriz.GetLength(1);
+            //for (int i = 0; i < matriz.GetLength(0); i++)
+            //{
+            //    for (int j = 0; j < matriz.GetLength(1); j++)
+            //    {
+            //        if (i % 2 == 0)
+            //        {
+            //           matriz[i, j] = ++inicio;                       
+            //        }
+            //        else {                      
+            //            matriz[i, j] = inicio--;
+            //        }                    
+            //    }
+            //    inicio = inicio + size;              
+            //}
+
+            int aux = 0;
+            int aux2 = 5;
+
+            int contador = 0;
+            for (int i = 0; i < matriz.GetLength(0); i++)
+            {
+                for (int j = 0; j < matriz.GetLength(1); j++)
+                {
+                    if (i == aux)
+                    {
+                        matriz[i, j] = ++contador;
+                    }
+                    else
+                    {
+                        if (j == matriz.GetLength(1) - 1)
+                        {
+                            matriz[i, j] = ++contador;
+                        }
+
+                    }
+                }
+                
+            }
+
+            for (int i = aux2; i > aux; i--)
+            {
+                for (int j = matriz.GetLength(1)-2; j >= 0; j--)
+                {
+                    if (i == aux2)
+                    {
+                        matriz[i, j] = ++contador;
+                    }
+                    else
+                    {
+                        if (j == aux)
+                        {
+                            matriz[i, j] = ++contador;
+                        }
+
+                    }
+                }
+
+            }
+
+            imprimir(matriz);
+            Console.ReadKey();
+        }
+
+        static void imprimir(int[,] matriz)
+        {
+            for (int i = 0; i < matriz.GetLength(0); i++)
+            {
+                for (int j = 0; j < matriz.GetLength(1); j++)
+                {
+                    Console.Write(matriz[i, j] + "\t");
+                }
+                Console.WriteLine();
+            }
+        }
+    }

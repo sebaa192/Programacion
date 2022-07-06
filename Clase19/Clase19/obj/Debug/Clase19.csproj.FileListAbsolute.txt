@@ -1,0 +1,8 @@
+C:\Users\Sbach\Desktop\Taller de Programacion\Clase19\Clase19\bin\Debug\Clase19.exe.config
+C:\Users\Sbach\Desktop\Taller de Programacion\Clase19\Clase19\bin\Debug\Clase19.exe
+C:\Users\Sbach\Desktop\Taller de Programacion\Clase19\Clase19\bin\Debug\Clase19.pdb
+C:\Users\Sbach\Desktop\Taller de Programacion\Clase19\Clase19\obj\Debug\Clase19.csproj.CoreCompileInputs.cache
+C:\Users\Sbach\Desktop\Taller de Programacion\Clase19\Clase19\obj\Debug\Clase19.exe
+C:\Users\Sbach\Desktop\Taller de Programacion\Clase19\Clase19\obj\Debug\Clase19.pdb
+C:\Users\Sbach\Desktop\Taller de Programacion\Clase19\Clase19\obj\Debug\Clase19.csproj.AssemblyReference.cache
+C:\Users\Sbach\Desktop\Taller de Programacion\Clase19\Clase19\obj\Debug\Clase19.csproj.SuggestedBindingRedirects.cache

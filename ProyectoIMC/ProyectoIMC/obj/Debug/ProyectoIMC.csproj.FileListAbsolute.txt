@@ -1,0 +1,7 @@
+C:\Users\Sbach\Desktop\Taller de Programacion\ProyectoIMC\ProyectoIMC\bin\Debug\ProyectoIMC.exe.config
+C:\Users\Sbach\Desktop\Taller de Programacion\ProyectoIMC\ProyectoIMC\bin\Debug\ProyectoIMC.exe
+C:\Users\Sbach\Desktop\Taller de Programacion\ProyectoIMC\ProyectoIMC\bin\Debug\ProyectoIMC.pdb
+C:\Users\Sbach\Desktop\Taller de Programacion\ProyectoIMC\ProyectoIMC\obj\Debug\ProyectoIMC.csprojAssemblyReference.cache
+C:\Users\Sbach\Desktop\Taller de Programacion\ProyectoIMC\ProyectoIMC\obj\Debug\ProyectoIMC.csproj.CoreCompileInputs.cache
+C:\Users\Sbach\Desktop\Taller de Programacion\ProyectoIMC\ProyectoIMC\obj\Debug\ProyectoIMC.exe
+C:\Users\Sbach\Desktop\Taller de Programacion\ProyectoIMC\ProyectoIMC\obj\Debug\ProyectoIMC.pdb

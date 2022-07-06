@@ -1,0 +1,7 @@
+C:\Users\Sbach\Desktop\Taller de Programacion\ProcedimientosFunciones\ProcedimientosFunciones\bin\Debug\ProcedimientosFunciones.exe.config
+C:\Users\Sbach\Desktop\Taller de Programacion\ProcedimientosFunciones\ProcedimientosFunciones\bin\Debug\ProcedimientosFunciones.exe
+C:\Users\Sbach\Desktop\Taller de Programacion\ProcedimientosFunciones\ProcedimientosFunciones\bin\Debug\ProcedimientosFunciones.pdb
+C:\Users\Sbach\Desktop\Taller de Programacion\ProcedimientosFunciones\ProcedimientosFunciones\obj\Debug\ProcedimientosFunciones.csprojAssemblyReference.cache
+C:\Users\Sbach\Desktop\Taller de Programacion\ProcedimientosFunciones\ProcedimientosFunciones\obj\Debug\ProcedimientosFunciones.csproj.CoreCompileInputs.cache
+C:\Users\Sbach\Desktop\Taller de Programacion\ProcedimientosFunciones\ProcedimientosFunciones\obj\Debug\ProcedimientosFunciones.exe
+C:\Users\Sbach\Desktop\Taller de Programacion\ProcedimientosFunciones\ProcedimientosFunciones\obj\Debug\ProcedimientosFunciones.pdb

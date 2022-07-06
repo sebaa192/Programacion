@@ -1,0 +1,7 @@
+C:\Users\Sbach\Desktop\Taller de Programacion\RevisionCertamen\RevisionCertamen\bin\Debug\RevisionCertamen.exe.config
+C:\Users\Sbach\Desktop\Taller de Programacion\RevisionCertamen\RevisionCertamen\bin\Debug\RevisionCertamen.exe
+C:\Users\Sbach\Desktop\Taller de Programacion\RevisionCertamen\RevisionCertamen\bin\Debug\RevisionCertamen.pdb
+C:\Users\Sbach\Desktop\Taller de Programacion\RevisionCertamen\RevisionCertamen\obj\Debug\RevisionCertamen.csprojAssemblyReference.cache
+C:\Users\Sbach\Desktop\Taller de Programacion\RevisionCertamen\RevisionCertamen\obj\Debug\RevisionCertamen.csproj.CoreCompileInputs.cache
+C:\Users\Sbach\Desktop\Taller de Programacion\RevisionCertamen\RevisionCertamen\obj\Debug\RevisionCertamen.exe
+C:\Users\Sbach\Desktop\Taller de Programacion\RevisionCertamen\RevisionCertamen\obj\Debug\RevisionCertamen.pdb

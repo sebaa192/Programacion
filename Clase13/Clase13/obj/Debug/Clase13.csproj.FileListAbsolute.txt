@@ -1,0 +1,7 @@
+C:\Users\Sbach\Desktop\Taller de Programacion\Clase13\Clase13\bin\Debug\Clase13.exe.config
+C:\Users\Sbach\Desktop\Taller de Programacion\Clase13\Clase13\bin\Debug\Clase13.exe
+C:\Users\Sbach\Desktop\Taller de Programacion\Clase13\Clase13\bin\Debug\Clase13.pdb
+C:\Users\Sbach\Desktop\Taller de Programacion\Clase13\Clase13\obj\Debug\Clase13.csprojAssemblyReference.cache
+C:\Users\Sbach\Desktop\Taller de Programacion\Clase13\Clase13\obj\Debug\Clase13.csproj.CoreCompileInputs.cache
+C:\Users\Sbach\Desktop\Taller de Programacion\Clase13\Clase13\obj\Debug\Clase13.exe
+C:\Users\Sbach\Desktop\Taller de Programacion\Clase13\Clase13\obj\Debug\Clase13.pdb
